@@ -5,7 +5,7 @@ Software developer from Bulgaria, working mainly with Ruby and focused on infras
 - 📚 Currently digging into **system design** and **Go**
 - 📷 Away from the keyboard I take photographs: [radoslavgenchev.com](https://radoslavgenchev.com)
 
-**Toolbox 🔧**
+**Toolbox**
 
 `Ruby` `Ruby on Rails` `PostgreSQL` `Redis` `Docker` `Kubernetes` `Ansible` `Prometheus`
 
